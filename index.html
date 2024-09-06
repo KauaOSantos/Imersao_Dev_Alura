@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Animais do Brasil</title>
+    <style>
+        footer {
+          font-size: 0.9rem;
+          background-color: #333;
+          opacity: 0.5; 
+          padding: 6px;
+          text-align: center;
+          color: #fff;
+        }
+      </style>
+</head>
+<body>
+    <header>
+        <h1>Pet Emporium</h1>
+    </header>
+    <main>
+        <section>
+            <input type="text" placeholder="Busque aqui o animal que deseja ver " 
+            id="campo-pesquisa">
+            <button onclick="pesquisar()">Pesquisar</button>
+        </section>
+        <section class="resultados-pesquisa" id="resultados-pesquisa">
+        </section>
+    </main>
+    <footer>
+        <p>2024 - Animais do Brasil. Todos os direitos reservados</p>
+        <p>Entre em contato pelo email: animais@felizes.com.br</p>
+    </footer>
+    <script src="dados_animais.js"></script>
+    <script src="app.js"></script>
+</body>
+
+</html>
