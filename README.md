@@ -1,6 +1,4 @@
-## **README.md Descontraído para o seu Projeto Pet Emporium**
-
-### ** Pet Emporium: Seu melhor amigo está aqui! **
+###  Pet Emporium - Imersão Dev com Google Gemini
 
 **O que é o Pet Emporium?**
 
@@ -33,27 +31,6 @@
 
 Se você quiser ajudar a melhorar este projeto, fique à vontade para abrir um pull request! Toda ajuda é bem-vinda! 
 
-**Agradecimentos:**
 
-Agradecemos a todos que contribuíram para a criação deste projeto! Se você gostou do Pet Emporium, compartilhe com seus amigos e familiares! 
 
-**Licença:**
 
-Este projeto está sob a licença MIT. Você é livre para usar, modificar e distribuir este código.
-
-**Vamos adotar um animal!** 
-
-**#PetEmporium #AdoteUmAmigo #Animais #Tecnologia**
-
-**[Inserir aqui um GIF ou imagem divertida de um animal]**
-
-**[Link para o seu perfil no GitHub]**
-
-**[Link para o repositório do projeto]**
-
-**[Link para um site de adoção de animais]**
-
-**[Qualquer outra informação relevante]**
-
-**Lembre-se:** Adapte este README.md para o seu projeto, adicionando mais detalhes e personalizando a linguagem para que fique com a sua cara!
-```
