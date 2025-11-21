@@ -26,11 +26,3 @@
 
 * **Banco de dados:** O banco de dados dos animais está no arquivo `dados_animais.js`. Você pode adicionar, remover ou editar os dados nesse arquivo para personalizar a sua busca.
 * **Melhorias futuras:** Temos muitas ideias para melhorar o Pet Emporium! Queremos adicionar mais funcionalidades como filtros avançados, fotos dos animais e até mesmo um sistema de cadastro para os usuários.
-
-**Contribuições:**
-
-Se você quiser ajudar a melhorar este projeto, fique à vontade para abrir um pull request! Toda ajuda é bem-vinda! 
-
-
-
-
